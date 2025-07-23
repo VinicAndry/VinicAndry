@@ -4,7 +4,7 @@
 
 <section style="font-family: 'Arial', sans-serif; display: flex; align-items: center; justify-content: center; color: #333; margin-top: 40px;">
   <!-- Imagem -->
-  <img src="https://github.com/VinicAndry/VinicAndry/issues/2#issue-3257331065" alt="Vinícius Andrade" style="width: 300px; height: 300px; border-radius: 50%; margin-right: 20 px; object-fit: cover;">
+  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/d3a6de90-a77b-4df1-a85d-ba53392ca06e.jpg" alt="Vinícius Andrade" style="width: 300px; height: 300px; border-radius: 50%; margin-right: 20 px; object-fit: cover;">
   
   <!-- Texto -->
   <div>

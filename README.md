@@ -37,7 +37,7 @@
     <h3 style="font-size: 1.5rem; color: #FF5733;">⚙️ Back-end</h3>
     <div>
       <a href="#"><img src="link-do-php.ico" alt="PHP" width="40" height="40" style="margin: 10px;"></a>
-      <a href="#"><img src="link-do-python.ico" alt="Python" width="40" height="40" style="margin: 10px;"></a>
+      <a href="#"><img src="https://img.icons8.com/?size=96&id=13441&format=png" alt="Python" width="40" height="40" style="margin: 10px;"></a>
       <a href="#"><img src="link-do-nodejs.ico" alt="Node.js" width="40" height="40" style="margin: 10px;"></a>
     </div>
   </div>

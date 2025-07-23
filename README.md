@@ -4,7 +4,7 @@
 
 <section style="font-family: 'Arial', sans-serif; display: flex; align-items: center; justify-content: center; color: #333; margin-top: 40px;">
   <!-- Imagem -->
-  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/blanka.jpg" alt="Vinícius Andrade" style="width: 300px; height: 300px; border-radius: 50%; margin-right: 20 px; object-fit: cover;">
+  <img src="[https://github.com/VinicAndry/VinicAndry/blob/main/blanka.jpg](https://private-user-images.githubusercontent.com/171507794/469933733-02ceea52-dd73-4269-a889-7d849feadb5a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyOTU4NDgsIm5iZiI6MTc1MzI5NTU0OCwicGF0aCI6Ii8xNzE1MDc3OTQvNDY5OTMzNzMzLTAyY2VlYTUyLWRkNzMtNDI2OS1hODg5LTdkODQ5ZmVhZGI1YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyM1QxODMyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTA3ZDgxZmZmZjQwYTRjNzQyMzI3NTZlZWE0NTg5NWMxM2UyNTY3ODA1ZDQyODFhOTFlYzUyYzE5OTFiNzdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4LiNuQG8Jn1ElGhOU-JRFHELW3V6muf05SXYCtl7uNM)" alt="Vinícius Andrade" style="width: 300px; height: 300px; border-radius: 50%; margin-right: 20 px; object-fit: cover;">
   
   <!-- Texto -->
   <div>

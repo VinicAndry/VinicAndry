@@ -26,7 +26,8 @@
   <div style="margin: 20 px;">
     <h3 style="font-size: 1.5 rem; color: #4CAF50;">🎨 Front-end</h3>
     <div>
-      <a href="#"><img src="[link-do-html5.ico](https://img.icons8.com/?size=96&id=20909&format=png)" alt="HTML5" width="40" height="40" style="margin: 10 px;"></a>
+      <a href="#"><img src="<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/f5af234f-e07c-4f00-9475-b6f668575083" />
+" alt="HTML5" width="40" height="40" style="margin: 10 px;"></a>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" width="40" height="40" style="margin: 10 px;"></a>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="JavaScript" width="40" height="40" style="margin: 10 px;"></a>
     </div>

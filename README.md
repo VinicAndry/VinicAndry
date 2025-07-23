@@ -4,7 +4,7 @@
 
 <section style="font-family: 'Arial', sans-serif; display: flex; align-items: center; justify-content: center; color: #333; margin-top: 40px;">
   <!-- Imagem -->
-  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/blanka.jpg" alt="Vinícius Andrade" style="width: 300 px; height: 300 px; border-radius: 50 %; margin-right: 20 px; object-fit: cover;">
+  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/blanka.jpg" alt="Vinícius Andrade" style="width: 300px; height: 300px; border-radius: 50%; margin-right: 20 px; object-fit: cover;">
   
   <!-- Texto -->
   <div>

@@ -4,12 +4,12 @@
 
 <section style="font-family: 'Arial', sans-serif; display: flex; align-items: center; justify-content: center; color: #333; margin-top: 40 px;">
   <!-- Imagem -->
-  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/d3a6de90-a77b-4df1-a85d-ba53392ca06e.jpg" alt="Vinícius Andrade" style="width: ; height: 300 px; border-radius: 50%; margin-right: 20 px; object-fit: cover;">
+  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/d3a6de90-a77b-4df1-a85d-ba53392ca06e.jpg" alt="Vinícius Andrade" style="width: ; height: 300 px; border-radius: 50 %; margin-right: 20 px; object-fit: cover;">
   
   <!-- Texto -->
   <div>
-    <h2 style="font-size: 2rem; color: #00BFFF;">Sobre Mim</h2>
-    <p style="font-size: 1.2rem; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+    <h2 style="font-size: 2 rem; color: #00BFFF;">Sobre Mim</h2>
+    <p style="font-size: 1.2 rem; line-height: 1.6; max-width: 800 px; margin: 0 auto;">
       Olá! Meu nome é <strong>Vinícius Andrade</strong>, tenho <strong>21 anos</strong> e sou apaixonado por <strong>Academia</strong>, <strong>Cultura Geek</strong> e, claro, um verdadeiro fã de <strong>Street Fighter</strong>.  
       Sempre em busca de novos desafios, estou cursando <strong>Engenharia de Software</strong> (3º semestre), e sou um grande frequentador do <strong>Senai</strong>, onde busco me aprimorar constantemente através de cursos e workshops.
     </p>

@@ -150,8 +150,8 @@
     <tr>
       <!-- Coluna 1 -->
       <td align="center" style="padding: 20px;">
-        <img src="gifs/barbara.gif" alt="Personagem 1" width="180"><br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight" alt="Linguagens" width="300">
+        <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-shoryuken.gif" alt="Personagem 1" width="180"><br><br>
+        <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-shoryuken.gif" alt="Linguagens" width="300">
       </td>
 
       <!-- Coluna 2 -->

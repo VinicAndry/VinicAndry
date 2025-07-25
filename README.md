@@ -142,3 +142,7 @@
   <img src="https://github.com/VinicAndry/VinicAndry/blob/main/guile-cfe-comb.gif" width="200px" align="left" style="margin-top: 40 px;" /> 
     <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-shoryuken.gif" width="200" align="right">
   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight)
+![VinicAndry's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinicAndry&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VinicAndry&theme=tokyonight)](https://git.io/streak-stats)

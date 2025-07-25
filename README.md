@@ -117,17 +117,17 @@
 ## 📂 Meus Projetos por Categoria
 
 | Categoria   | Projetos                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|
-| Python      | [organizador.py](https://github.com/SeuUsuario/organizador.py), [geradorqrcode.py](https://github.com/SeuUsuario/geradorqrcode.py), [calculadora_pro.py](https://github.com/SeuUsuario/geradorqrcode.py) |
-| PHP         | [Meu Site](https://github.com/SeuUsuario/meusite)                                           |
-| Node.js     | [API Node](https://github.com/SeuUsuario/api-node)                                          |
-| Django      | [Projeto Django](https://github.com/SeuUsuario/projeto-django)                              |
-| Flask       | [App Flask](https://github.com/SeuUsuario/app-flask)                                        |
-| Composer    | [Projeto Composer](https://github.com/SeuUsuario/projeto-composer)                          |
-| MySQL       | [DB MySQL](https://github.com/SeuUsuario/db-mysql)                                          |
-| VBA         | [Macros VBA](https://github.com/SeuUsuario/macros-vba)                                      |
-| Lisp        | [Projeto Lisp](https://github.com/SeuUsuario/projeto-lisp)                                  |
-| JavaScript  | [App JS](https://github.com/SeuUsuario/app-js)                                              |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Python      | [organizador.py](https://github.com/SeuUsuario/organizador.py), [geradorqrcode.py](https://github.com/SeuUsuario/geradorqrcode.py), [calculadora_pro.py](https://github.com/SeuUsuario/geradorqrcode.py)                                                                                                                                      |
+| PHP         | [Meu Site](https://github.com/SeuUsuario/meusite)                                                                                                                     |
+| Node.js     | [API Node](https://github.com/SeuUsuario/api-node)                                                                                                                    |
+| Django      | [Projeto Django](https://github.com/SeuUsuario/projeto-django)                                                                                                        |
+| Flask       | [App Flask](https://github.com/SeuUsuario/app-flask)                                                                                                                  |
+| Composer    | [Projeto Composer](https://github.com/SeuUsuario/projeto-composer)                                                                                                    |
+| MySQL       | [DB MySQL](https://github.com/SeuUsuario/db-mysql)                                                                                                                    |
+| VBA         | [Macros VBA](https://github.com/SeuUsuario/macros-vba)                                                                                                                |
+| Lisp        | [Projeto Lisp](https://github.com/SeuUsuario/projeto-lisp)                                                                                                            |
+| JavaScript  | [App JS](https://github.com/SeuUsuario/app-js)                                                                                                                        |
 
 </div>
   <img src="https://github.com/VinicAndry/VinicAndry/blob/main/guile-cfe-comb.gif" width="200px" align="left" style="margin-top: 40 px;" /> 

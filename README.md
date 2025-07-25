@@ -129,5 +129,5 @@
 
 </div>
   <img src="https://github.com/VinicAndry/VinicAndry/blob/main/z-akuma-shoosh.gif" width="200px" align="left" style="margin-top: 40 px;" /> 
-    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/chunny-ts-winz.gif?raw=true" width="200" align="right">
+    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/bison-sc-win.gif" width="200" align="right">
   

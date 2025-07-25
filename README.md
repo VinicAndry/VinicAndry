@@ -37,7 +37,7 @@
 
   <!-- Bloco do GIF -->
   <div style="margin-left: 20 px;">
-    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200" align="right">
+    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/chunny-ts-winz.gif?raw=true" width="200" align="right">
 
   </div>
 </div>
@@ -82,7 +82,7 @@
   </div>
 </section>
 <br>
-<img src="https://github.com/VinicAndry/VinicAndry/blob/main/chunny-ts-winz.gif?raw=true" width="200px" align="left" style="margin-top: 40 px;" />
+<img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200px" align="left" style="margin-top: 40 px;" />
 
 
 <!-- Tabela alinhada à direita -->

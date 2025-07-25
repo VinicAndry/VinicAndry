@@ -23,9 +23,9 @@
   <h2 style="font-size: 2 rem; color: #00BFFF;">Tecnologias e Conhecimentos</h2>
   
 <!-- Front-end -->
-<div style="margin: 20px; display: flex; align-items: center; justify-content: space-between;">
+<div style="margin: 20 px; display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <h3 style="font-size: 1.5rem; color: #4CAF50;">🎨 Front-end</h3>
+    <h3 style="font-size: 1.5 rem; color: #4CAF50;">🎨 Front-end</h3>
     <div>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="html5" width="40" height="40" style="margin: 10 px;"></a>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" width="40" height="40" style="margin: 10 px;"></a>
@@ -55,7 +55,7 @@
     <div>
       <a href="#"><img src="https://img.icons8.com/?size=160&id=IuuVVwsdTi2v&format=png" alt="Django" width="40" height="40" style="margin: 10px;"></a>
       <a href="#"><img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png" alt="Flask" width="40" height="40" style="margin: 10px;"></a>
-      <a href="#"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiCXw7vTnMsfimV8EbYqHunM8r6iXv9sWWOTjGl_y2tfHoMFNLPhdl7aa-GOCMFfqJa6h-npU2zhJyhcN_qar6z-fP889JIdxdLZ_EH2Me" alt="Composer" width="400" height="40" style="margin: 10 px;"></a>
+      <a href="#"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiCXw7vTnMsfimV8EbYqHunM8r6iXv9sWWOTjGl_y2tfHoMFNLPhdl7aa-GOCMFfqJa6h-npU2zhJyhcN_qar6z-fP889JIdxdLZ_EH2Me" alt="Composer" width="40" height="40" style="margin: 10 px;"></a>
     </div>
   </div>
 

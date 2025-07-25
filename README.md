@@ -101,7 +101,10 @@
 
 </div>
 
-
+<br>
+<br>
+<br>
+<br>
 
 <section style="font-family: 'Arial', sans-serif; text-align: center; margin: 40 px auto; max-width: 800 px; color: #333;">
  
@@ -125,5 +128,6 @@
 | JavaScript  | [App JS](https://github.com/SeuUsuario/app-js)                                              |
 
 </div>
-  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/z-akuma-shoosh.gif" width="200px" align="left" style="margin-top: 40 px;" />
+  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/z-akuma-shoosh.gif" width="200px" align="left" style="margin-top: 40 px;" /> 
+    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/chunny-ts-winz.gif?raw=true" width="200" align="right">
   

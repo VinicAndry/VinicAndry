@@ -81,7 +81,8 @@
     </div>
   </div>
 </section>
-
+<br>
+<img src="https://github.com/VinicAndry/VinicAndry/blob/main/zangief-dahh.gif" width="200px" align="left" style="margin-top: 40 px;" />
 
 
 <!-- Tabela alinhada à direita -->
@@ -100,7 +101,7 @@
 
 </div>
 
-<img src="https://github.com/VinicAndry/VinicAndry/blob/main/zangief-dahh.gif" width="200px" align="left" style="margin-top: 40 px;" />
+
 
 <section style="font-family: 'Arial', sans-serif; text-align: center; margin: 40 px auto; max-width: 800 px; color: #333;">
  

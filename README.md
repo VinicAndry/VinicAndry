@@ -86,7 +86,7 @@
 
 
 <!-- Tabela alinhada à direita -->
-<div align="right">
+<div align="center">
 
 ## 🧠 Meus Estudos Prioritários
 | Rank | Tecnologia | Prioridade | Ícone |

@@ -82,7 +82,7 @@
   </div>
 </section>
 <br>
-<img src="https://github.com/VinicAndry/VinicAndry/blob/main/zangief-dahh.gif" width="200px" align="left" style="margin-top: 40 px;" />
+<img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200px" align="left" style="margin-top: 40 px;" />
 
 
 <!-- Tabela alinhada à direita -->

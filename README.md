@@ -91,7 +91,7 @@
 ## 🧠 Meus Estudos Prioritários
 | Rank | Tecnologia | Prioridade | Ícone |
 |------|------------|------------|-------|
-<img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200px" align="left" style="margin-top: 40 px;" />
+|                                        |       <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200px" align="left" style="margin-top: 40 px;" />
 | 🥇 Top 1 | **AWS**        | ☁️ Computação em Nuvem | 🌩️ |
 | 🥈 Top 2 | **JavaScript** | 🧠 Lógica Web / Front | 💻 |
 | 🥉 Top 3 | **React**      | ⚛️ Framework JS      | ⚙️ |

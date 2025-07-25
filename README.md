@@ -37,7 +37,7 @@
 
   <!-- Bloco do GIF -->
   <div style="margin-left: 20 px;">
-    <img src="https://link-do-gif-da-chunli.gif" width="200" align="right">
+    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/chunny-ts-winz.gif?raw=true" width="200" align="right">
 
   </div>
 </div>

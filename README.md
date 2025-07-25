@@ -83,7 +83,7 @@
 </section>
 
 <!-- GIF da Chun-Li no lado esquerdo -->
-<img src="URL_DO_SEU_GIF.gif" width="200px" align="left" />
+<img src="https://github.com/VinicAndry/VinicAndry/blob/main/zangief-dahh.gif" width="200px" align="left" />
 
 <!-- Tabela alinhada à direita -->
 <div align="right">

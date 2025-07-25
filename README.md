@@ -116,7 +116,7 @@
 
 | Categoria   | Projetos                                                                                      |
 |-------------|----------------------------------------------------------------------------------------------|
-| Python      | [organizador.py](https://github.com/SeuUsuario/organizador.py), [geradorqrcode.py](https://github.com/SeuUsuario/geradorqrcode.py) |
+| Python      | [organizador.py](https://github.com/SeuUsuario/organizador.py), [geradorqrcode.py](https://github.com/SeuUsuario/geradorqrcode.py), [calculadora_pro.py](https://github.com/SeuUsuario/geradorqrcode.py) |
 | PHP         | [Meu Site](https://github.com/SeuUsuario/meusite)                                           |
 | Node.js     | [API Node](https://github.com/SeuUsuario/api-node)                                          |
 | Django      | [Projeto Django](https://github.com/SeuUsuario/projeto-django)                              |

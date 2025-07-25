@@ -82,6 +82,26 @@
   </div>
 </section>
 
+<!-- GIF da Chun-Li no lado esquerdo -->
+<img src="URL_DO_SEU_GIF.gif" width="200px" align="left" />
+
+<!-- Tabela alinhada à direita -->
+<div align="right">
+
+## 🧠 Meus Estudos Prioritários
+
+| Rank | Tecnologia | Prioridade | Ícone |
+|------|------------|------------|-------|
+| 🥇 Top 1 | **AWS**        | ☁️ Computação em Nuvem | 🌩️ |
+| 🥈 Top 2 | **JavaScript** | 🧠 Lógica Web / Front | 💻 |
+| 🥉 Top 3 | **React**      | ⚛️ Framework JS      | ⚙️ |
+| 4️⃣ Top 4 | **Java**        | 🔧 Back-End & Apps   | ☕ |
+| 5️⃣ Top 5 | **MongoDB**     | 🗂️ Banco NoSQL       | 🍃 |
+| 6️⃣ Top 6 | **C++**         | 🧮 Performance       | 💥 |
+| 7️⃣ Top 7 | **COBOL**       | 🏛️ Legado Corporativo| 🏦 |
+
+</div>
+
 **VinicAndry/VinicAndry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

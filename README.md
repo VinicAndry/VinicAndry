@@ -107,7 +107,7 @@
 <section style="font-family: 'Arial', sans-serif; text-align: center; margin: 40 px auto; max-width: 800 px; color: #333;">
   <h2 style="font-size: 2 rem; color: #00BFFF;">📂 Meus Projetos por Categoria</h2>
   
-  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/z-akuma-shoosh.gif" width="200px" align="left" style="margin-top: 40 px;" />
+
 <div align="center">
 
 ## 📂 Meus Projetos por Categoria
@@ -126,4 +126,5 @@
 | JavaScript  | [App JS](https://github.com/SeuUsuario/app-js)                                              |
 
 </div>
-
+  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/z-akuma-shoosh.gif" width="200px" align="left" style="margin-top: 40 px;" />
+  

@@ -145,28 +145,13 @@
 
 <hr>
 <br>
-<div align="center">
-  <table>
-    <tr>
-      <!-- Coluna 1 -->
-      <td align="center" style="padding: 20px;">
-        <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-shoryuken.gif" alt="Personagem 1" width="180"><br><br>
-        <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-shoryuken.gif" alt="Linguagens" width="300">
-      </td>
-
-      <!-- Coluna 2 -->
-      <td align="center" style="padding: 20px;">
-        <img src="gifs/vinicius.gif" alt="Personagem 2" width="180"><br><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=VinicAndry&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300">
-      </td>
-
-      <!-- Coluna 3 -->
-      <td align="center" style="padding: 20px;">
-        <img src="gifs/gustavo.gif" alt="Personagem 3" width="180"><br><br>
-        <img src="https://streak-stats.demolab.com?user=VinicAndry&theme=tokyonight" alt="Streak" width="300">
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
+<center>
+  <img src="https://github-readme-stats.vercel.app/api?username=VinicAndry&show_icons=true&theme=tokyonight">
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=VinicAndry&theme=tokyonight">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight">
+</center>
 
 

@@ -145,23 +145,27 @@
 
 <hr>
 <br>
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; text-align: center;">
-  <!-- Coluna 1: GIF + Gráfico de Linguagens -->
-  <div>
-    <img src="gifs/barbara.gif" alt="Personagem 1" style="width: 150px; height: auto;"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight" alt="Linguagens" style="width: 200px; height: auto;">
-  </div>
+<center>
+  <table style="text-align: center;">
+    <tr>
+      <!-- Coluna 1 -->
+      <td>
+        <img src="gifs/barbara.gif" alt="Personagem 1" width="250"><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight" alt="Linguagens" width="250">
+      </td>
 
-  <!-- Coluna 2: GIF + Stats de GitHub -->
-  <div>
-    <img src="gifs/vinicius.gif" alt="Personagem 2" style="width: 150px; height: auto;"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=VinicAndry&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto;">
-  </div>
+      <!-- Coluna 2 -->
+      <td style="padding: 0 40px;">
+        <img src="gifs/vinicius.gif" alt="Personagem 2" width="250"><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=VinicAndry&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="250">
+      </td>
 
-  <!-- Coluna 3: GIF + Streak -->
-  <div>
-    <img src="gifs/gustavo.gif" alt="Personagem 3" style="width: 150px; height: auto;"><br><br>
-    <img src="https://streak-stats.demolab.com?user=VinicAndry&theme=tokyonight" alt="Streak" style="width: 200px; height: auto;">
-  </div>
-</div>
+      <!-- Coluna 3 -->
+      <td>
+        <img src="gifs/gustavo.gif" alt="Personagem 3" width="250"><br>
+        <img src="https://streak-stats.demolab.com?user=VinicAndry&theme=tokyonight" alt="Streak" width="250">
+      </td>
+    </tr>
+  </table>
+</center>
 

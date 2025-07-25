@@ -129,5 +129,5 @@
 
 </div>
   <img src="https://github.com/VinicAndry/VinicAndry/blob/main/guile-cfe-comb.gif" width="200px" align="left" style="margin-top: 40 px;" /> 
-    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/bison-sc-win.gif" width="200" align="right">
+    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-shoryuken.gif" width="200" align="right">
   

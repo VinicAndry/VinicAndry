@@ -145,21 +145,28 @@
 
 <hr>
 <br>
-<center>
-  <table style="text-align: center;">
+<div align="center">
+  <table>
     <tr>
       <!-- Coluna 1 -->
-      <td style="padding: 20 px;">
-        <img src="gifs/barbara.gif" alt="Personagem 1" width="260"
-             style="border-radius: 10 px; box-shadow: 0 4 px 15 px rgba(0,0,0,0.3); transition: transform 0.3s;"
-             onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"><br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight"
-             alt="Linguagens"
-             width="280"
-             style="border-radius: 10 px; box-shadow: 0 4 px 15 px rgba(0,0,0,0.25);">
+      <td align="center" style="padding: 20px;">
+        <img src="gifs/barbara.gif" alt="Personagem 1" width="180"><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicAndry&layout=compact&theme=tokyonight" alt="Linguagens" width="300">
       </td>
 
+      <!-- Coluna 2 -->
+      <td align="center" style="padding: 20px;">
+        <img src="gifs/vinicius.gif" alt="Personagem 2" width="180"><br><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=VinicAndry&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300">
+      </td>
 
+      <!-- Coluna 3 -->
+      <td align="center" style="padding: 20px;">
+        <img src="gifs/gustavo.gif" alt="Personagem 3" width="180"><br><br>
+        <img src="https://streak-stats.demolab.com?user=VinicAndry&theme=tokyonight" alt="Streak" width="300">
+      </td>
+    </tr>
   </table>
-</center>
+</div>
+
 

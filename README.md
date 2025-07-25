@@ -85,21 +85,30 @@
 
 
 
-<!-- Tabela alinhada à direita -->
+<!-- Tabela alinhada ao centro com GIFs abaixo de cada título de coluna -->
 <div align="center">
 
 ## 🧠 Meus Estudos Prioritários
-| Rank | Tecnologia | Prioridade | Ícone |
-|------|------------|------------|-------|
-|                                        | <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200px" align="left" style="margin-top: 40 px;" />
-|                                        |  <img src="https://github.com/VinicAndry/VinicAndry/blob/main/ken-intro4.gif" width="200px" align="left" style="margin-top: 40 px;" />
-| 🥇 Top 1 | **AWS**        | ☁️ Computação em Nuvem | 🌩️ |
-| 🥈 Top 2 | **JavaScript** | 🧠 Lógica Web / Front | 💻 |
-| 🥉 Top 3 | **React**      | ⚛️ Framework JS      | ⚙️ |
-| 4️⃣ Top 4 | **Java**        | 🔧 Back-End & Apps   | ☕ |
-| 5️⃣ Top 5 | **MongoDB**     | 🗂️ Banco NoSQL       | 🍃 |
-| 6️⃣ Top 6 | **C++**         | 🧮 Performance       | 💥 |
-| 7️⃣ Top 7 | **COBOL**       | 🏛️ Legado Corporativo| 🏦 |
+
+<table>
+  <thead>
+    <tr>
+      <th>Rank<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
+      <th>Tecnologia<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
+      <th>Prioridade<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
+      <th>Ícone<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🥇 Top 1</td><td><b>AWS</b></td><td>☁️ Computação em Nuvem</td><td>🌩️</td></tr>
+    <tr><td>🥈 Top 2</td><td><b>JavaScript</b></td><td>🧠 Lógica Web / Front</td><td>💻</td></tr>
+    <tr><td>🥉 Top 3</td><td><b>React</b></td><td>⚛️ Framework JS</td><td>⚙️</td></tr>
+    <tr><td>4️⃣ Top 4</td><td><b>Java</b></td><td>🔧 Back-End & Apps</td><td>☕</td></tr>
+    <tr><td>5️⃣ Top 5</td><td><b>MongoDB</b></td><td>🗂️ Banco NoSQL</td><td>🍃</td></tr>
+    <tr><td>6️⃣ Top 6</td><td><b>C++</b></td><td>🧮 Performance</td><td>💥</td></tr>
+    <tr><td>7️⃣ Top 7</td><td><b>COBOL</b></td><td>🏛️ Legado Corporativo</td><td>🏦</td></tr>
+  </tbody>
+</table>
 
 </div>
 

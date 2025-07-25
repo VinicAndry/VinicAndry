@@ -91,7 +91,6 @@
 <div align="right">
 
 ## 🧠 Meus Estudos Prioritários
-
 | Rank | Tecnologia | Prioridade | Ícone |
 |------|------------|------------|-------|
 | 🥇 Top 1 | **AWS**        | ☁️ Computação em Nuvem | 🌩️ |

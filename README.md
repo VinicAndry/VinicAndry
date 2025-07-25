@@ -93,10 +93,10 @@
 <table>
   <thead>
     <tr>
-      <th>Rank<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
-      <th>Tecnologia<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
-      <th>Prioridade<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
-      <th>Ícone<br><img src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png" width="50px" /></th>
+      <th>Rank<br><img src="https://github.com/VinicAndry/VinicAndry/blob/main/ryu-ts-taunt1.gif" width="50px" /></th>
+      <th>Tecnologia<br><img src="https://github.com/VinicAndry/VinicAndry/blob/main/cam-alphataunt.gif" width="50px" /></th>
+      <th>Prioridade<br><img src="https://github.com/VinicAndry/VinicAndry/blob/main/vega-taunt1.gif" width="50px" /></th>
+      <th>Ícone<br><img src="https://github.com/VinicAndry/VinicAndry/blob/main/charlie-toomeasy.gif" width="50px" /></th>
     </tr>
   </thead>
   <tbody>

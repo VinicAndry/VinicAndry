@@ -103,16 +103,79 @@
 
 </div>
 
-**VinicAndry/VinicAndry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<section style="font-family: 'Arial', sans-serif; text-align: center; margin: 40px auto; max-width: 800px; color: #333;">
+  <h2 style="font-size: 2rem; color: #00BFFF;">📂 Meus Projetos por Categoria</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table style="width: 100%; border-collapse: collapse; margin-top: 20px; box-shadow: 0 0 10px rgba(0,191,255,0.3);">
+    <thead>
+      <tr style="background-color: #00BFFF; color: white;">
+        <th style="padding: 12px; border: 1px solid #ccc;">Categoria</th>
+        <th style="padding: 12px; border: 1px solid #ccc;">Projetos</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">Python</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/organizador.py" target="_blank" rel="noopener noreferrer">organizador.py</a>, 
+          <a href="https://github.com/SeuUsuario/geradorqrcode.py" target="_blank" rel="noopener noreferrer">geradorqrcode.py</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">PHP</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/meusite" target="_blank" rel="noopener noreferrer">Meu Site</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">Node.js</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/api-node" target="_blank" rel="noopener noreferrer">API Node</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">Django</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/projeto-django" target="_blank" rel="noopener noreferrer">Projeto Django</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">Flask</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/app-flask" target="_blank" rel="noopener noreferrer">App Flask</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">Composer</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/projeto-composer" target="_blank" rel="noopener noreferrer">Projeto Composer</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">MySQL</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/db-mysql" target="_blank" rel="noopener noreferrer">DB MySQL</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">VBA</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/macros-vba" target="_blank" rel="noopener noreferrer">Macros VBA</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">Lisp</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/projeto-lisp" target="_blank" rel="noopener noreferrer">Projeto Lisp</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ccc; font-weight: bold;">JavaScript</td>
+        <td style="padding: 12px; border: 1px solid #ccc; text-align: left;">
+          <a href="https://github.com/SeuUsuario/app-js" target="_blank" rel="noopener noreferrer">App JS</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>

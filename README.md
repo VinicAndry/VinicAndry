@@ -22,15 +22,22 @@
 <section style="font-family: 'Arial', sans-serif; text-align: center; color: #333; margin-top: 40 px;">
   <h2 style="font-size: 2 rem; color: #00BFFF;">Tecnologias e Conhecimentos</h2>
   
-  <!-- Front-end -->
-  <div style="margin: 20 px;">
-    <h3 style="font-size: 1.5 rem; color: #4CAF50;">🎨 Front-end</h3>
+<!-- Front-end -->
+<div style="margin: 20px; display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3 style="font-size: 1.5rem; color: #4CAF50;">🎨 Front-end</h3>
     <div>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="html5" width="40" height="40" style="margin: 10 px;"></a>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" width="40" height="40" style="margin: 10 px;"></a>
       <a href="#"><img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="JavaScript" width="40" height="40" style="margin: 10 px;"></a>
     </div>
   </div>
+
+  <div>
+    <img src="https://github.com/VinicAndry/VinicAndry/blob/main/chunny-ts-winz.gif?raw=true" alt="Chun-Li Victory" width="120" style="margin-left: 20 px; border-radius: 8 px;">
+  </div>
+</div>
+
   
   <!-- Back-end -->
   <div style="margin: 20px;">
